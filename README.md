@@ -6,6 +6,7 @@ Prerequisites:
 - A Unix-based device that is always on and where you can run things as a cron process. I use a Raspberry Pi.
 - Some basic understanding of Unix/Python, but not very much.
 - A Google Sheets account
+- The commandline version of speedtest, called speedtest-cli. It's here https://pypi.org/project/speedtest-cli/
 
 Installation instructions:
 - Load speedtest.py and uploadtosheets.py scripts in the same folder
