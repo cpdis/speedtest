@@ -1,3 +1,5 @@
+# All-in-1 speed test, but without the integration into Google Sheets, which is a handicap for people to share the data, create alerting, etc.
+
 import re
 import sqlite3 as lite
 import sys
