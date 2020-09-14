@@ -1,7 +1,7 @@
 # speedtest
 Speedtest for a home broadband connection. The speedtest.py script collects and stores the data locally; uploadtosheets.py sends it to Google Sheets for graphing and data storage. You alternatively use st.py to do both in one routine, but makes it more complicated to view, share, and alert. 
 
-Prerequesitites:
+Prerequisites:
 - Python 3.5+
 - A Unix-based device that is always on and where you can run things as a cron process. I use a Raspberry Pi.
 - Some basic understanding of Unix/Python, but not very much.
