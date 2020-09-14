@@ -16,3 +16,4 @@ Installation instructions:
 Notes:
 - While I haven't described it here, you can obviously do all sorts of alerting and highlighting of stuff, so that you find out when bandwidth drops below a certain level. That way you're not surprised when your WFH spouse, or Zoom-class kids, come running out of their rooms at the same time shouting "My Zoom call went down!".
 - Please no questions on how to install, deal with Unix, or deal with scripts, or cron, etc. 
+- I've been using this for a few months now, and it's worked fine. When it fails, it tends to be because I've kicked the power out for my Pi. It's otherwise robust. 
