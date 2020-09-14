@@ -1,5 +1,5 @@
 # speedtest
-Speedtest for a home broadband connection. Speedtest.py collects and stores the data locally; graphs.py sends it to Google Sheets for graphing and data storage. You alternatively use st.py to do both in one routine, but makes it more complicated to view, share, and alert. 
+Speedtest for a home broadband connection. The speedtest.py script collects and stores the data locally; uploadtosheets.py sends it to Google Sheets for graphing and data storage. You alternatively use st.py to do both in one routine, but makes it more complicated to view, share, and alert. 
 
 Prerequesitites:
 - Python 3.5+
